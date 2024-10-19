@@ -11,34 +11,45 @@
 
 ### About Us
 <p align="justify">
-Selamat datang di GitHub kami, Setiyadi Group! Kami adalah perusahaan konsultan pemula yang berdedikasi untuk memberikan solusi terbaik yang dilakukan secara metodologis dan berjenjang. Memberikan opsi-opsi yang terstruktur, tervisualisasi, dan terdokumentasikan pada setiap lini pekerjaannya. Saat ini, kami sedang berusaha untuk membentuk tim yang berpengalaman dan berkomitmen dalam bidang ini, perlu diketahui bahwa kualitas dan kapasitas suatu perusahaan hanya dapat dipastikan atau dinilai oleh waktu yang tercatat oleh jejak digital di internet. Perlu untuk digarisbawahi saat menyewa jasa kami, rasakanlah pengalaman yang berbeda dibandingkan dengan kompetitor lainnya.
+Selamat datang di GitHub kami, Setiyadi Group! Organisasi ini berbentuk grup yang sepenuhnya dimiliki oleh Benny Hartanto Setiyadi. Saya (pemilik) memfasilitasi orang-orang yang ingin mewujudkan mimpinya masing-masing dengan cara mengikuti saran dari pemilik itu sendiri maupun dengan orang-orang di Setiyadi Group. Tak hanya itu, terdapat pula chat out-of-topic dan sesi bermain game juga, terutama Counter-Strike, Delta-Force, DiRT Rally 2.0, Dota 2 dan masih banyak lagi.
+
+Setiap repositori yang berada di organisasi ini merupakan hasil pemikiran dan implementasi yang dapat digunakan oleh setiap orang yang telah memutuskan untuk berkomitmen untuk memperbaiki diri disertai dengan belajar. 
+
+Jika konten dalam repositori ini tidak menarik bagi anda, berarti anda bukan orang yang saya maksudkan di atas.
 </p align="justify">
 
 ### Ideology
 <p align="justify">
-Perusahaan ini memiliki ideologi yang unik yaitu pandangan tentang landasan berpikir yang digagas oleh pendirinya yaitu Bapak Benny Hartanto Setiyadi. Nama "Setiyadi" diambil karena memiliki makna setia dan inilah yang mendasari penamaan nama ideologi "5 pillar of Setiyadi-an" sebagai patokan yang bisa digunakan siapa saja untuk bisa berpikir kritis (mastermind), mengambil keputusan yang bijak (master control), teguh dengan pendirian (master discipline), berani menghadapi tantangan (master bravery) dan mampu menjelaskan ide dan gagasannya (master explain).
+Perusahaan ini memiliki ideologi yang unik yaitu pandangan tentang landasan berpikir yang digagas oleh pemiliknya. Nama <b>"Setiyadi"</b> diambil karena <b>memiliki makna setia</b> dan inilah <b>yang mendasari penamaan nama ideologi "5 pillar of Setiyadi-an" sebagai patokan yang digunakan untuk bisa berpikir kritis (mastermind), mengambil keputusan yang bijak (master control), teguh dengan pendirian (master discipline), berani menghadapi tantangan (master bravery) dan mampu menjelaskan ide dan gagasannya (master explain).</b>
 
-Ideologi ini sangat cocok untuk dibawa dan disebarluaskan di dunia bisnis dan industri. Untuk ditujukan kepada seluruh manusia yang menginginkan penerapan lingkungan ekonomi yang memiliki likuiditas yang tinggi terhadap transaksi jual beli disertai dengan kemampuan daya beli masyarakat yang tinggi. Dengan para Pengusaha diwajibkan untuk mempoles produk - produk yang mereka jual kepada pasar global untuk disesuaikan sesuai standar kebutuhan pelanggan. Dengan hal tersebut pengusaha mendapat kepastian dalam memperoleh pelanggan tetap yang memilih untuk percaya terhadap produk yang terjamin kualitasnya.   
+Ideologi ini merupakan modal yang sangat cocok untuk dibawa dan disebarluaskan di segala umur hingga merambah ke dunia bisnis dan industri.
+
+Dengan adanya 5 pillar tersebut, setidaknya dalam menghadapi setiap masalah entah itu masalah pribadi, di sekolah, di kantor, di masyarakat ataupun di tempat lain seseorang yang mencoba menggunakan ideologi ini tidak akan meraba-raba terlalu dalam di dalam imajinasinya untuk mensimulasikan mekanisme penyelesaian masalah dengan abstraksi. 
+
+Mengapa? Karena seseorang yang telah memahami akan mereferensikan jawaban sementara dari permasalahannya dengan berpatokan pada 5 pillar tersebut disertai secara bertahap merumuskan solusi yang dapat dipakai berulang untuk menyelesaikan permasalahan yang serupa. 
 </p align="justify">
 
-### Planned Jobs
+### Simplified
 <p align="justify">
-Selama belum ada pelanggan yang menyewa jasa perusahaan, perusahaan akan berfokus pada beberapa pekerjaan di bawah ini:
- <ol>
- <li>Penyusunan dan penyampaian ideologi
-  <li>Menyusun alur kerja bisnis dalam perusahaan
-  <li>Merencanakan, mendesain dan mengungkapkan atau (jika memungkinkan) membuat bisnis lain di lingkup digital 
-</li></li></li></ol> 
+Intinya, Setiyadi Group adalah Grup yang dimiliki oleh Benny yang memfasilitasi orang-orang untuk saling berdiskusi mengenai mimpinya masing-masing dan juga memfasilitasi untuk bermain berbagai macam title game.
+
+Benny sebagai pemilik juga menyempatkan waktunya untuk membuat dokumentasi berbentuk repositori github untuk memudahkan dirinya dan orang yang memiliki kepentingan yang sama untuk menyelesaikan permasalahan yang diselesaikan berulang.
+
+Benny menemukan "5 pillar of Setiyadi-an" yang digunakan sebagai ideologi yang cocok untuk diterapkan pada segala kondisi sebagai parameter utama dalam menghadapi setiap masalah baru yang belum ditemukan solusinya.
 </p align="justify">
 
 ### On-going Project
 <p align="justify">
+Repositori memanglah banyak dan kemungkinan akan sulit bagi orang yang baru mempelajari Setiyadi Group. Oleh karena itu, di bawah ini disediakan repositori yang dijadikan sebagai kepala atau HEAD untuk mengelompokkan berbagai macam repositori kedalam 1 HEAD repositori yang memiliki tujuan yang jelas. Adapun lebih jelasnya seperti di bawah ini:
+
 <ol>
-<li>Pembukaan - Penyusunan dan penyampaian ideologi Setiyadi Group
-</li></ol>
+<li>bekalforgood | Bekal yang diperlukan untuk studi lanjut di luar negeri</li>
+<li>thesisimplementation | Implementasi dari Tugas Akhir/Skripsi </li>
+<li>TBD </li>
+</ol>
 </p align="justify">
 
-### Career
+<!-- ### Career
 <p align="justify">
 Setelah membaca sekilas mengenai perusahaan ini, jika Anda ingin bergabung kepada kami mohon perhatikan beberapa disclaimer di bawah ini:
 <ol>
@@ -46,10 +57,11 @@ Setelah membaca sekilas mengenai perusahaan ini, jika Anda ingin bergabung kepad
 <li>Tidak ada gaji yang bisa ditawarkan, selama perusahaan belum mendapatkan laba bersih setelah dikurangi oleh biaya operasional perusahaan.
 <li>Budaya kerja yang lambat semacam siput perlu anda pahami karena perusahaan berorientasi pada solusi atau jawaban yang dapat dipertanggungjawabkan.
 </li></li></li></li></ol>
-</p align="justify">
+</p align="justify"> -->
 
-### SK Pendirian
-<p align="justify">
-Dalam proses 
-<p align="justify">
 
+<!-- ### Didirikan
+<p align="justify">
+ 30 Januari 2020 (secara privat)
+ (Dipublikasi)
+<p align="justify"> -->
