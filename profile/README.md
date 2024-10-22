@@ -43,10 +43,8 @@ Benny menemukan "5 pillar of Setiyadi-an" yang digunakan sebagai ideologi yang c
 Repositori memanglah banyak dan kemungkinan akan sulit bagi orang yang baru mempelajari Setiyadi Group. Oleh karena itu, di bawah ini disediakan repositori yang dijadikan sebagai kepala atau HEAD untuk mengelompokkan berbagai macam repositori kedalam 1 HEAD repositori yang memiliki tujuan yang jelas. Adapun lebih jelasnya seperti di bawah ini:
 
 <ol>
-
-[<li>bekalForGood <b>|</b> Bekal yang diperlukan untuk studi lanjut di luar negeri.</li>](https://github.com/Setiyadi-Group/bekalforgood)
-
-[<li>thesisImplementation <b>|</b> Implementasi dari Tugas Akhir/Skripsi.</li>](https://github.com/Setiyadi-Group/thesisImplementation)
+<li><a href="https://github.com/Setiyadi-Group/bekalforgood">bekalForGood <b>|</b> Bekal yang diperlukan untuk studi lanjut di luar negeri.</li></a>
+<li><a href="https://github.com/Setiyadi-Group/thesisImplementation">thesisImplementation <b>|</b> Implementasi dari Tugas Akhir/Skripsi.</li></a>
 <li>TBD </li>
 </ol>
 </p align="justify">
