@@ -11,31 +11,28 @@
 
 ### About Us
 <p align="justify">
-Selamat datang di GitHub kami, Setiyadi Group! Organisasi ini berbentuk grup yang sepenuhnya dimiliki oleh Benny Hartanto Setiyadi. Saya (pemilik) memfasilitasi orang-orang yang ingin mewujudkan mimpinya masing-masing dengan cara mengikuti saran dari pemilik itu sendiri maupun dengan orang-orang di Setiyadi Group. Tak hanya itu, terdapat pula chat out-of-topic dan sesi bermain game juga, terutama Counter-Strike, Delta-Force, DiRT Rally 2.0, Dota 2 dan masih banyak lagi.
+Selamat datang di GitHub kami, <b>Setiyadi Group!</b> Ini adalah perkumpulan berbentuk grup yang berasal dari koneksi <b>Benny Hartanto Setiyadi</b> atau teman dari temannya. Secara umum grup ini berdiskusi lewat Discord dan secara umum, terdapat pula sesi refleksi tentang kehidupan, chat out-of-topic dan sesi bermain game.
 
-Setiap repositori yang berada di organisasi ini merupakan hasil pemikiran dan implementasi yang dapat digunakan oleh setiap orang yang telah memutuskan untuk berkomitmen untuk memperbaiki diri disertai dengan belajar. 
+Setiap repositori yang berada di grup ini merupakan hasil pemikiran dan implementasi yang dapat digunakan <u>oleh setiap orang yang telah memutuskan untuk berkomitmen memperbaiki diri disertai dengan belajar terus-menerus hingga ajal (kematian) menjemput.</u>
+
+```"Terinspirasi dari Bahasa Pemrogramman Java yang mewarisi semangat LTS (Long-Term Support), yang dimana repository didesain agar bisa digunakan selamanya dengan adanya para maintainer yang mendokumentasikan dengan penuh tanggung jawab dan moral."```
 
 Jika konten dalam repositori ini tidak menarik bagi anda, berarti anda bukan orang yang saya maksudkan di atas.
 </p align="justify">
 
 ### Ideology
 <p align="justify">
-Perusahaan ini memiliki ideologi yang unik yaitu pandangan tentang landasan berpikir yang digagas oleh pemiliknya. Nama <b>"Setiyadi"</b> diambil karena <b>memiliki makna setia</b> dan inilah <b>yang mendasari penamaan nama ideologi "5 pillar of Setiyadi-an" sebagai patokan yang digunakan untuk bisa berpikir kritis (mastermind), mengambil keputusan yang bijak (master control), teguh dengan pendirian (master discipline), berani menghadapi tantangan (master bravery) dan mampu menjelaskan ide dan gagasannya (master explain).</b>
+Landasan ideologi digunakan sebagai landasan berpikir, mengamati dan memahami terhadap logika <u>"How can things be reliably worked?"</u>. Nama <b>"Setiyadi"</b> diambil karena <b>memiliki makna setia</b> dan inilah <b>yang mendasari penamaan nama ideologi "5 pillar of Setiyadi-an"</b> sebagai patokan yang digunakan untuk bisa berpikir kritis <u>(mastermind)</u>, mengambil keputusan yang bijak <u>(master control)</u>, teguh dengan pendirian <u>(master discipline)</u>, berani menghadapi tantangan <u>(master bravery)</u> dan mampu menjelaskan ide dan gagasannya <u>(master explain)</u>.
 
-Ideologi ini merupakan modal yang sangat cocok untuk dibawa dan disebarluaskan di segala umur hingga merambah ke dunia bisnis dan industri.
+Ideologi ini merupakan modal yang sangat cocok untuk dijadikan pedoman dalam menjalani kehidupan sehari-hari dan dapat disebarluaskan ke segala rentang umur hingga merambah ke dunia bisnis dan industri.
 
-Dengan adanya 5 pillar tersebut, setidaknya dalam menghadapi setiap masalah entah itu masalah pribadi, di sekolah, di kantor, di masyarakat ataupun di tempat lain seseorang yang mencoba menggunakan ideologi ini tidak akan meraba-raba terlalu dalam di dalam imajinasinya untuk mensimulasikan mekanisme penyelesaian masalah dengan abstraksi. 
+```Dengan adanya 5 pillar tersebut, setidaknya dalam menghadapi setiap masalah entah itu masalah pribadi, di sekolah, di kantor, di masyarakat ataupun di tempat lain seseorang yang mencoba menggunakan ideologi ini tidak akan meraba-raba terlalu dalam di dalam imajinasinya untuk mensimulasikan mekanisme penyelesaian masalah yang runtut dengan cara berabstraksi.``` 
 
-Mengapa? Karena seseorang yang telah memahami akan mereferensikan jawaban sementara dari permasalahannya dengan berpatokan pada 5 pillar tersebut disertai secara bertahap merumuskan solusi yang dapat dipakai berulang untuk menyelesaikan permasalahan yang serupa. 
 </p align="justify">
 
-### Simplified
+### Framework
 <p align="justify">
-Intinya, Setiyadi Group adalah Grup yang dimiliki oleh Benny yang memfasilitasi orang-orang untuk saling berdiskusi mengenai mimpinya masing-masing dan juga memfasilitasi untuk bermain berbagai macam title game.
-
-Benny sebagai pemilik juga menyempatkan waktunya untuk membuat dokumentasi berbentuk repositori github untuk memudahkan dirinya dan orang yang memiliki kepentingan yang sama untuk menyelesaikan permasalahan yang diselesaikan berulang.
-
-Benny menemukan "5 pillar of Setiyadi-an" yang digunakan sebagai ideologi yang cocok untuk diterapkan pada segala kondisi sebagai parameter utama dalam menghadapi setiap masalah baru yang belum ditemukan solusinya.
+TBD
 </p align="justify">
 
 ### On-going Project
@@ -43,11 +40,22 @@ Benny menemukan "5 pillar of Setiyadi-an" yang digunakan sebagai ideologi yang c
 Repositori memanglah banyak dan kemungkinan akan sulit bagi orang yang baru mempelajari Setiyadi Group. Oleh karena itu, di bawah ini disediakan repositori yang dijadikan sebagai kepala atau HEAD untuk mengelompokkan berbagai macam repositori kedalam 1 HEAD repositori yang memiliki tujuan yang jelas. Adapun lebih jelasnya seperti di bawah ini:
 
 <ol>
-<li><a href="https://github.com/Setiyadi-Group/bekalforgood">bekalForGood <b>|</b> Bekal yang diperlukan untuk studi lanjut di luar negeri.</li></a>
-<li><a href="https://github.com/Setiyadi-Group/thesisImplementation">thesisImplementation <b>|</b> Implementasi dari Tugas Akhir/Skripsi.</li></a>
+<li><a href="https://github.com/Setiyadi-Group/bekalforgood">bekalForGood <b>|</b> Bekal yang diperlukan untuk <s>studi lanjut di</s> bekerja luar negeri.</li></a>
+<li>TBD</li>
 <li>TBD </li>
 </ol>
 </p align="justify">
+
+### Abandoned Project
+<p align="justify">
+Pengerjaan repossitori ini dihentikan karena sudah tidak relevan lagi untuk dilanjutkan.
+
+<ol><s>
+<li><a href="https://github.com/Setiyadi-Group/thesisImplementation">thesisImplementation <b>|</b> Implementasi dari Tugas Akhir/Skripsi.</li></a>
+<li>TBD </li>
+</ol></s>
+<!-- 14:14 || MENGERUCUTKAN PEKERJAAN YANG SUDAH TIDAK RELIABLE UNTUK DIKERJAKAN -->
+<!-- THESIS IMPLEMENTATION DIHENTIKAN KARENA MAYORITAS MANUSIA SEBENARNYA TIDAK BUTUH BRANDING VALIDASI LAGI. DAN SEKARANG BERFOKUS PADA MEREKA YANG LEBIH MEMILIH SESUATU YANG "APPLICABLE(MUDAH DITERAPKAN)" DI KEHIDUPAN SEHARI-HARINYA DARIPADA HAL-HAL YANG SEKADAR BERBAU INSPIRATIF -->
 
 <!-- ### Career
 <p align="justify">
