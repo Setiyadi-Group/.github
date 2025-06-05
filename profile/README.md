@@ -40,8 +40,8 @@ TBD
 Repositori memanglah banyak dan kemungkinan akan sulit bagi orang yang baru mempelajari Setiyadi Group. Oleh karena itu, di bawah ini disediakan repositori yang dijadikan sebagai kepala atau HEAD untuk mengelompokkan berbagai macam repositori kedalam 1 HEAD repositori yang memiliki tujuan yang jelas. Adapun lebih jelasnya seperti di bawah ini:
 
 <ol>
-<li><a href="https://github.com/Setiyadi-Group/bekalforgood">bekalForGood <b>|</b> Bekal yang diperlukan untuk <s>studi lanjut di</s> bekerja luar negeri.</li></a>
-<li>TBD</li>
+<li><a href="https://github.com/Setiyadi-Group/bekalforgood">bekalForGood <b>|</b> Bekal yang diperlukan untuk <s>studi lanjut</s> bekerja di luar negeri.</li></a>
+<li><a href="https://github.com/Setiyadi-Group/pcMasterRace">pcMasterRace <b>|</b> LTS Solution untuk pengunaan komputer sehari-hari.</a></li>
 <li>TBD </li>
 </ol>
 </p align="justify">
