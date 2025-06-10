@@ -35,6 +35,12 @@ Ideologi ini merupakan modal yang sangat cocok untuk dijadikan pedoman dalam men
 TBD
 </p align="justify">
 
+### How to write my own documentations in GitHub?
+<p align="justify">
+Anda ingin menulis seperti ini di GitHub? Segala macam tutorialnya akan terus di-update di repositori ini, karena ini masuk dalam daftar LTS:
+<li><a href="https://github.com/Setiyadi-Group/FirstTimeGitSetup">FirstTimeGitSetup <b>|</b> Cara menulis di GitHub</a>
+</p></li>
+
 ### On-going Project
 <p align="justify">
 Repositori memanglah banyak dan kemungkinan akan sulit bagi orang yang baru mempelajari Setiyadi Group. Oleh karena itu, di bawah ini disediakan repositori yang dijadikan sebagai kepala atau HEAD untuk mengelompokkan berbagai macam repositori kedalam 1 HEAD repositori yang memiliki tujuan yang jelas. Adapun lebih jelasnya seperti di bawah ini:
@@ -48,7 +54,7 @@ Repositori memanglah banyak dan kemungkinan akan sulit bagi orang yang baru memp
 
 ### Abandoned Project
 <p align="justify">
-Pengerjaan repossitori ini dihentikan karena sudah tidak relevan lagi untuk dilanjutkan.
+Pengerjaan repositori ini dihentikan karena sudah tidak relevan lagi untuk dilanjutkan.
 
 <ol><s>
 <li><a href="https://github.com/Setiyadi-Group/thesisImplementation">thesisImplementation <b>|</b> Implementasi dari Tugas Akhir/Skripsi.</li></a>
